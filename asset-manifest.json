@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yeon-SS/basic_rt.git/static/css/main.d1375c9d.css",
+    "main.js": "/Yeon-SS/basic_rt.git/static/js/main.6bb9e460.js",
+    "static/js/787.293c2eec.chunk.js": "/Yeon-SS/basic_rt.git/static/js/787.293c2eec.chunk.js",
+    "index.html": "/Yeon-SS/basic_rt.git/index.html",
+    "main.d1375c9d.css.map": "/Yeon-SS/basic_rt.git/static/css/main.d1375c9d.css.map",
+    "main.6bb9e460.js.map": "/Yeon-SS/basic_rt.git/static/js/main.6bb9e460.js.map",
+    "787.293c2eec.chunk.js.map": "/Yeon-SS/basic_rt.git/static/js/787.293c2eec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1375c9d.css",
+    "static/js/main.6bb9e460.js"
+  ]
+}
